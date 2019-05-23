@@ -50,3 +50,4 @@
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/IMG_7072.jpg)
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/IMG_7073.jpg)
