@@ -4,7 +4,9 @@
 
 Here I summarize some important formulas and concepts (the symbol is not good, so I wrote it down and took it down.）
 
-proposition; truth table；equivalence law; 存在/任意
+proposition; truth table；equivalence law; universal & essential存在/任意
+
+内容：命题判断；truth table & equivalence law 的运用，并用其证明命题对错；存在和任意命题的判断，范围的判断，对存在和任意的否定，用文字陈述任意和存在命题以及用数学符号翻译其命题；
 
 # 命题： 
 （1）有谓语动词之类的  （2）结果只有两种 ”对或者错“ （3）陈述句（不能是疑问句，祈使句，感叹句）(4) be 除外
