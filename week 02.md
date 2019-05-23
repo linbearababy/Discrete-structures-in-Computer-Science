@@ -28,7 +28,7 @@
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2022.51.05.png)
 
-![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2022.51.31.png)
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2023.07.12.png)
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2022.59.51.png)
 
