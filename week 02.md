@@ -3,7 +3,8 @@
 
 # proof
  
-三个表格 （证明quantification&  rules）
+.三个表格 （证明quantification&  rules）
+
 
 证明方式： 
 （1） direct proof   (2)indirect proof  (contrapositive)  (3) indirect proof( contradiction)
@@ -14,13 +15,14 @@
 
 
 # sets 
-元素  属于
-集合    ：子集和真子集
-真子集
-子集
-画venn 图
-| | 元素个数
- 练习题： 
+
+. 元素和集合的关系（属于）； 集合与集合的关系（子集&真子集）
+
+. 画venn 图
+
+. | | 表示元素个数
+
+ . 练习题： 
  
 
 # function
