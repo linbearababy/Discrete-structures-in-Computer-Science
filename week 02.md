@@ -15,6 +15,7 @@
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2023.32.08.png)
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2023.32.28.png)
 # sets 
 
 . 元素和集合的关系（属于）； 集合与集合的关系（子集&真子集）
