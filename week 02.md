@@ -13,6 +13,7 @@
 
 . 有理无理数证明方法 （1.加减 2.乘除 3.如果太难或者没有方法，你先用举例法（case），先证一下，有个思路 （写上去）。 然后在用（direct 或者 indirect方法叙述一下，灵活说）
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2023.32.08.png)
 
 # sets 
 
