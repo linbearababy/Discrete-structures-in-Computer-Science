@@ -21,7 +21,7 @@ Eg:
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/IMG_7071.jpg)
 
-# 关于universal & essential
+# 关于universal & essential (理解和运用----English translate 符号术语）
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-22%2022.18.14.png)
 
