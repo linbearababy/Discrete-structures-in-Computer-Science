@@ -88,3 +88,4 @@ To evaluate a nested summation, work from the inside out.
 					
 uncountable. 
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-29%2000.15.34.png)
