@@ -91,8 +91,9 @@ uncountable.
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-29%2000.15.34.png)
 
 
-# matrix
-   定义/概念： 
+# matrix 矩阵
+
+（1） 定义/概念： 
 
 	乘法结合律： (AB)C=A(BC)．
 	乘法左分配律：(A+B)C=AC+BC  
@@ -101,24 +102,10 @@ uncountable.
 	转置 (AB)T=BTAT．
 	矩阵乘法一般不满足交换律 
 	
-# 矩阵加减
+（2） # 矩阵运算
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-30%2010.56.07.png)
 
-通常的矩阵加法被定义在两个相同大小的矩阵。两个m×n矩阵A和B的和，标记为A+B，一样是个m×n矩阵，其内的各元素为其相对应元素相加后的值。例如：
-
-图片
-
-也可以做矩阵的减法，只要其大小相同的话。A-B内的各元素为其相对应元素相减后的值，且此矩阵会和A、B有相同大小。例如：
- 
- 图片
-
-
-# 矩阵乘 （行 * 列）
-
-设A为  的矩阵，B为  的矩阵，那么称  的矩阵C为矩阵A与B的乘积，记作  ，其中矩阵C中的第 行第  列元素可以表示为：
-
-如下所示：
-
-（3） AB != BA
+（3） AB != BA (交换律 不行）
 
      matrix multiplication is associative 结合律 （T) / commutative 交换律(F) 
      
