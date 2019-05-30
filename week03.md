@@ -181,6 +181,7 @@ All entries are 0 or 1.
 								
 (10) boolean product
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-30%2011.02.02.png)
 (11) boolean power
 
 
