@@ -105,6 +105,8 @@ uncountable.
 （2） # 矩阵运算
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-30%2010.56.07.png)
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-30%2010.56.24.png)
+
 （3） AB != BA (交换律 不行）
 
      matrix multiplication is associative 结合律 （T) / commutative 交换律(F) 
