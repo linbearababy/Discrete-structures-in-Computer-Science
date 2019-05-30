@@ -89,3 +89,105 @@ To evaluate a nested summation, work from the inside out.
 uncountable. 
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-29%2000.15.34.png)
+
+
+# matrix
+   定义/概念： 
+
+	乘法结合律： (AB)C=A(BC)．
+	乘法左分配律：(A+B)C=AC+BC  
+	乘法右分配律：C(A+B)=CA+CB  
+	对数乘的结合性k(AB）=(kA)B=A(kB）．
+	转置 (AB)T=BTAT．
+	矩阵乘法一般不满足交换律 
+	
+# 矩阵加减
+
+通常的矩阵加法被定义在两个相同大小的矩阵。两个m×n矩阵A和B的和，标记为A+B，一样是个m×n矩阵，其内的各元素为其相对应元素相加后的值。例如：
+
+图片
+
+也可以做矩阵的减法，只要其大小相同的话。A-B内的各元素为其相对应元素相减后的值，且此矩阵会和A、B有相同大小。例如：
+ 
+ 图片
+
+
+# 矩阵乘 （行 * 列）
+
+设A为  的矩阵，B为  的矩阵，那么称  的矩阵C为矩阵A与B的乘积，记作  ，其中矩阵C中的第 行第  列元素可以表示为：
+
+如下所示：
+
+（3） AB != BA
+
+     matrix multiplication is associative 结合律 （T) / commutative 交换律(F) 
+     
+(4)  BEST ORDER
+
+找出做乘法运算最少的的顺序
+
+ABC :
+
+(AB)C = A(BC)
+
+A= [aij] 20*30
+
+B= [bij] 30*40
+
+C= [cij] 40*10
+
+(AB)C:
+
+AB = 20*40 个元素， 每个元素经过30次乘法运算， 所以总共次数为 20*40*30
+
+(AB)C = (AB) *C = 20*40 * 40*10 = 20*10 (个元素）， 每个元素经过40次运算，所以一共为
+
+20*10*40 
+
+所以一共：
+（AB) + (AB)C = 20*30*40 + 20*10*40= 32000
+
+
+A(BC) =  (BC) + A(BC) 次数
+
+（BC) = 30*10 (个元素） 每一个元素经历了 40次， 所以共 30*10*40
+
+A(BC) = 20*30 * 30*10 = 20*10 个元素， 每一个元素经历了30 次乘法运算，所以共 20*10*30
+
+30*10*40 + 20*10*30 = 18000 
+
+所以A(BC) is the best order
+
+(5) identity matrix	
+
+The identity matrix is a square matrix with all 1’s along the diagonal and 0’s elsewhere. 
+
+(6) inverse matrix	
+
+. Let A and B be nn matrices.
+▪ If AB=BA=In then B is called the inverse of A,					
+denoted B=A-1
+					
+(7)  solving linear equalities
+ 
+2x + y =8    ------       2 1           x        8
+-2x+y =4     ------       -2 1         y         4
+
+(8) power of matrices		
+Let A be an n ×n matrix. The powers of A are defined recursively:				
+
+0th power of A: A0 = In 
+				
+kth power of A : Ak = A∙Ak −1, for k > 0
+				
+(9) zero - one matrices
+						
+All entries are 0 or 1.				
+						
+▪ Operations are Boolean operations: Let A = [aij] and B = [bij] be m ×n zero-one matrices. Then:
+						
+▪ The join of A and B, written A B, is the m ×n zero-one matrix [aij bij]. 
+								
+(10) boolean product
+
+(11) boolean power
