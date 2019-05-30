@@ -197,3 +197,4 @@ All entries are 0 or 1.
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7101.jpg)
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7103.jpg)
