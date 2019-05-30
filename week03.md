@@ -191,3 +191,9 @@ All entries are 0 or 1.
 (10) boolean product
 
 (11) boolean power
+
+
+# summmary
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7101.jpg)
+
