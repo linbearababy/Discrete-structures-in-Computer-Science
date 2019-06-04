@@ -158,3 +158,243 @@ ac ≡ bd(modm).
 	
 ▪  Hence,by Theorem 4, a+c ≡ b+d(modm)andac ≡ bd(modm). ▪ Example: Because 7 ≡ 2 (mod 5) and 11 ≡ 1 (mod 5) , it follows that 18 = 3 (mod 5) and 77 = 2 (mod 5) 
 
+▪ Proof:	
+▪  (=>) Assume a ≡ b (mod m)
+ 							
+Then m | (a – b).
+ Hence, there is an integer k such that (a – b) = km. But then a = b + km.
+	
+▪  (<=) Assume there is an integer k such that a = b + km, Then km = a – b.
+ Hence, m | (a – b).
+ Thus, a ≡ b (mod m). 
+ 						
+(5) Notation Hazard: (mod m) v.s. mod
+						
+▪ The “mod” in a ≡ b (mod m) and a mod m = b are
+					
+different.
+					
+▪ a ≡ b (mod m) is a relation on the set of integers.
+					
+▪ In a mod m, the notation mod denotes a binary operation (function).
+					
+▪ Theorem 3: Let a and b be integers, and let m be a positive integer. Then a ≡ b (mod m) if and only if a mod m = b mod m. (Proof in the exercises) 
+				
+(6) 	Congruences of Sums and Products 
+								
+▪ Theorem 5: Let m be a positive integer. If a ≡ b (mod m) and c ≡ d (mod m), then a + c ≡ b + d (mod m) and
+ac ≡ bd(modm).
+					
+▪ Proof:					 							
+▪  Assume a ≡ b(modm) andc ≡ d(modm).
+					 							
+▪  Then, by Theorem 4, there are integers s and t with b = a + sm and d = c + tm.
+ 				
+▪  Therefore,
+ b + d = (a + sm) + (c + tm) = (a + c) + m(s + t) and bd = (a + sm) (c + tm) = ac + m(at + cs + stm).
+	
+▪  Hence,by Theorem 4, a+c ≡ b+d(modm)andac ≡ bd(modm). ▪ Example: Because 7 ≡ 2 (mod 5) and 11 ≡ 1 (mod 5) , it follows that 18 = 3 (mod 5) and 77 = 2 (mod 5) 
+
+Solution: Using the definitions above: 7 +11 9 = (7 + 9) mod 11 = 16 mod 11 = 5
+7 ∙11 9 = (7 ∙ 9) mod 11 = 63 mod 11 = 8 
+								
+▪ The operations +m and ∙m satisfy many of the same
+					
+properties as ordinary addition and multiplication. ▪ Closure: If a and b belong to Zm , then a +m b and a ∙m b
+					
+belong to Zm .
+		
+▪  Associativity: If a, b, and c belong to Zm , then (a +m b) +m c = a +m (b +m c) and
+ (a ∙m b) ∙m c = a ∙m (b ∙m c).
+ 						
+▪  Commutativity: If a and b belong to Zm , then a +m b = b +m a and a ∙m b = b ∙m a.
+ 							
+▪ Identity elements: If a belongs to Zm , then a +m 0 = a
+				
+and a ∙m 1 = a.
+			
+▪ Additive inverses: If a ≠ 0 belongs to Zm , then m − a is the additive
+					
+inverse of a modulo m and 0 is its own additive inverse. • a+m(m−a) =0and0+m0 =0
+					
+▪ Distributivity: If a, b, and c belong to Zm , then
+• a∙m(b+mc)= (a∙mb)+m (a∙mc) and (a
+					
+(a+mb)∙m c =(a∙mc)+m(b∙mc). ▪ Proofs are exercises.
+					
+▪ Multiplicative inverses have not been included since they do not always exist. For example, there is no multiplicative inverse of 2 modulo 6.
+					
+▪ (optional) Using the terminology of abstract algebra, Zm with +m is a commutative group and Zm with +m and ∙m is a commutative ring. 
+
+(10) primes				
+▪ Definition: A positive integer p greater than 1 is prime if the only positive factors of p are 1 and p.
+					
+▪ A positive integer that is greater than 1 and is not prime is called composite. 
+				
+(11)THE Fundamental Theorem of Arithmetic 	
+
+▪ Theorem: Every positive integer greater than 1 can be written as a prime or as the product of two or more primes; this representation is unique if the prime factors are written in order of non-decreasing size.
+					
+▪ Examples:
+▪ 100 = 2 ∙ 2 ∙ 5 ∙ 5 = 22 ∙ 52
+					
+▪ 641 = 641
+					
+▪ 999 = 3 ∙ 3 ∙ 3 ∙ 37 = 33 ∙ 37 
+
+(12)	The Sieve of Erastosthenes 
+						
+A method for finding all primes that do not exceed a given positive integer, n.
+					
+▪  List all of the integers from 2 to n in increasing order.
+	
+▪  Mark the first unmarked element of the list as “prime”.
+
+▪  Delete all the unmarked integers that are divisible by the last element that was marked as “prime”.
+						 							
+▪  Repeat the previous two steps until only marked integers 
+ 
+(13)Greatest common divisor			
+					
+▪ Definition: Let a and b be integers, not both zero. The largest integer d such that d | a and also d | b is called the greatest common divisor of a and b. It is denoted by gcd(a,b). 
+									
+▪ Definition: The integers a and b are relatively prime if their greatest common divisor is 1.
+					
+▪ Example: 17 and 22
+▪ Definition: The integers a1, a2, ..., an are pairwise relatively
+					
+prime if gcd(ai, aj)= 1 whenever 1 ≤ i < j ≤ n 
+
+*1 find gcd
+					
+▪ Suppose the prime factorizations of a and b are:
+					
+where each exponent is a nonnegative integer, and where all primes occurring in either prime factorization are included in both. Then:
+			
+▪ Example:
+▪120= 23 ∙3∙5 
+				
+(14) 	Euclidean Algorithm 
+
+▪  The Euclidian algorithm is an efficient method for computing the greatest common divisor of two integers.
+
+▪  It is based on the fact that, if a > b, then gcd(a, b) = gcd(b, a mod b).
+ 							
+▪ Example: Find gcd(91, 287):
+ ▪ 287 mod 91 = 14, so gcd(91, 287) = gcd(91, 14)
+ 							
+▪ 91 mod 14 = 7, so gcd(91, 14) = gcd(14, 7)
+ 							
+▪ 14 mod 7 = 0, so gcd(14, 7) = gcd(7, 0)
+ 							
+▪ gcd(7, 0) = 7 
+ 						
+SO gcd(91,287) = 7
+
+(15)	least Common Multiple 
+					
+▪ Definition: The least common multiple of the positive integers a and b is the smallest positive integer that is divisible by both a and b. It is denoted by lcm(a,b).
+					
+▪ The least common multiple can also be computed from the prime factorizations: If the prime factorizations of a and b are: 
+				
+where each exponent is a nonnegative integer, and where all primes occurring in either prime factorization are included in both. 
+				
+		
+#  congruence
+					
+(1)Bézout’s Theorem 
+			
+▪ If 𝑎 and 𝑏 are positive integers, then there exists integers 𝑠 and 𝑡 such that gcd 𝑎,𝑏 =𝑠𝑎+𝑡𝑏
+					
+▪ The coefficients 𝑠 and 𝑡 are called Bézout’s coefficients ▪ Named after Etienne Bézout
+					
+▪ We can find these coefficients using a modified form of the Euclidean algorithm 
+			
+(2) Finding Bézout’s coefficients 			
+					
+▪gcd (252,198) =18 
+▪ 252 = 1 ⋅ 198 + 54				
+▪ 198 = 3 ⋅ 54 + 36 
+▪ 54 = 1 ⋅ 36 + 18 
+▪ 36 = 2 ⋅ 18 
+
+(3)				
+Linear Congruence 
+					
+▪Hastheform𝑎𝑥≡𝑏 𝑚𝑜𝑑𝑚 ▪ 𝑚 ∈ Z+
+					
+▪ 𝑎, 𝑏 ∈ Z
+▪ 𝑥 is an integer variable
+					
+▪ Can solve for 𝑥 using 𝑎ത𝑎 ≡ 1 (𝑚𝑜𝑑 𝑚) ▪ 𝑎ത is the inverse of 𝑎
+					
+▪ Requires 𝑎 and 𝑚 to be relatively prime ▪ Otherwise there may not be a solution 
+
+PROOF
+				
+▪Letgcd𝑎,𝑚 =1
+▪ Then 𝑠𝑎 + 𝑡𝑚 = 1 or 𝑠𝑎 + 𝑡𝑚 ≡ 1 (𝑚𝑜𝑑 𝑚) ▪ But 𝑡𝑚 ≡ 0 (𝑚𝑜𝑑 𝑚)
+▪ Thus 𝑠𝑎 ≡ 1 (𝑚𝑜𝑑 𝑚) and 𝑠 is an inverse of 𝑎 
+
+(4) Solving a linear congruence 
+					
+▪ To solve 𝑎𝑥 ≡ 𝑏 (𝑚𝑜𝑑 𝑚)
+▪ Find the Bézout coefficients 𝑠 and 𝑡 for sa + t𝑚 = 1
+					
+▪ Multiply both sides by 𝑠
+▪ 𝑠𝑎 reduce to 1 leaving 𝑥 ≡ 𝑠𝑏 (𝑚𝑜𝑑 𝑚) 
+				
+		 	 	 		
+			
+				
+					
+▪ Solve 3𝑥 ≡ 4 (𝑚𝑜𝑑 7)
+					
+▪ Find the Bézout coefficients of 3 and 7
+ ▪7=2⋅3+1
+					
+▪ 1 = −2 ⋅ 3 + 1 ⋅ 7
+ ▪ 𝑎’ = − 2
+					
+▪ Multiply by 𝑎’
+
+ ▪−2⋅3𝑥≡−2⋅4 𝑚𝑜𝑑7 
+▪ 𝑥 ≡ −8 ≡ 6 (𝑚𝑜𝑑 7) 
+				
+(5) 				
+Fermat’s Little Theorem 
+				
+▪ If 𝑝 is prime and 𝑎 is an integer not divisible by 𝑝 then ▪𝑎𝑝−1 ≡1(𝑚𝑜𝑑𝑝)
+▪𝑎𝑝 ≡𝑎(𝑚𝑜𝑑𝑝)
+					
+▪ Note that this doesn’t say anything about what happens if 𝑝 is composite
+					
+▪ The proof is outlined in Exercise 4.4.19
+					
+▪ Don’t confuse this with Fermat’s Last Theorem
+
+▪ 𝑎𝑛 + 𝑏𝑛 = 𝑐𝑛 has positive integer solutions only when 𝑛 = 1 or 𝑛 = 2 
+
+EG: 			
+▪ Find 7222 𝑚𝑜𝑑 11 10
+
+▪ Note that 7 ≡ 1 (𝑚𝑜𝑑 11)
+							
+222 10⋅22+2 10 22 2 22
+▪7=7 =77≡1⋅49≡5(𝑚𝑜𝑑11) 
+				
+			
+		
+# number representations 
+				
+▪ Integer Representations ▪ Base b Expansions
+					
+▪ Binary Expansions
+▪ Octal Expansions
+▪ Hexadecimal Expansions
+					
+▪ Base Conversion Algorithm
+▪ Algorithms for Integer Operations 
+				
+			
+
