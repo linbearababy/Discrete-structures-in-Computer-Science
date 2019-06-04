@@ -381,6 +381,7 @@ EG:
 ▪ Note that 7 ≡ 1 (𝑚𝑜𝑑 11)
 							
 222 10⋅22+2 10 22 2 22
+
 ▪7=7 =77≡1⋅49≡5(𝑚𝑜𝑑11) 
 				
 			
@@ -390,10 +391,13 @@ EG:
 ▪ Integer Representations ▪ Base b Expansions
 					
 ▪ Binary Expansions
+
 ▪ Octal Expansions
+
 ▪ Hexadecimal Expansions
 					
 ▪ Base Conversion Algorithm
+
 ▪ Algorithms for Integer Operations 
 				
 			
