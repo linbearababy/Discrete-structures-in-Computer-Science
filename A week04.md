@@ -293,6 +293,28 @@ where each exponent is a nonnegative integer, and where all primes occurring in 
  						
 SO gcd(91,287) = 7
 
+SO gcd(91,287) = 7       ; M=91   N= 287
+E:                                                 B:
+287 = 3*91+14                              ( N= 3*M+  14  )           14 = N-3M
+91 =   6*14 + 7            M = 6* (N-3M) +7     ---- 7 = M- 6*(N-3M) -- 7 = 19M -6N (= 19*91- 6*287)
+14= 2*7 +0                                   S =19; T=-6
+
+B: 
+
+m=91, n=287  
+
+
+
+
+
+($) gcd (252, 198)  N =252, M=198
+252 = 1*198+54   54=N-M  36= M-3(N-M) 18=(N-M)-(M-3(N-M))=N-M-M+3N-3M=4N-5M S=4 T=-5
+198 = 3*54+36
+54= 1*36+18
+36= 2*18+0
+Gcd = 18
+
+
 (15)	least Common Multiple 
 					
 ▪ Definition: The least common multiple of the positive integers a and b is the smallest positive integer that is divisible by both a and b. It is denoted by lcm(a,b).
