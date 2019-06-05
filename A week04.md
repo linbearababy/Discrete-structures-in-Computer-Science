@@ -386,6 +386,12 @@ EG:
 
 ▪7=7 =77≡1⋅49≡5(𝑚𝑜𝑑11) 
 				
+#a*n = 1 ( mod m) 
+ inverse  n,m 互为质数是inverse
+
+
+# n*a = k(mod m) 
+coungruence     n,m 互为质数有解，否则无解
 			
 		
 # number representations 
