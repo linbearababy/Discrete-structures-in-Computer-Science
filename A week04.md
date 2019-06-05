@@ -49,6 +49,8 @@ A problem is said to be in the set P if there is an algorithm that solves it tha
  							
 ▪ Whether these two sets are the same is unknown 
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-04%2019.46.22.png)
+
 # 	Divisibility and Modular Arithmetic 
 (1)	
 Division :				
