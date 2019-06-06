@@ -514,6 +514,12 @@ coungruence     n,m 互为质数有解，否则无解
 			
 		
 	
-		
+# 代表题： 
+
+
+
+
+# summary： 
+
 
 
