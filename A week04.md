@@ -518,7 +518,21 @@ coungruence     n,m 互为质数有解，否则无解
 			
 		
 	
-# 代表题： 
+# 代表题：
+
+notation （ big-oh , big- omega, big- theta) 
+
+(a)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2022.33.04.png)
+
+(b)
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2022.33.15.png)
+
+(c) 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2022.33.51.png)
+
+E 方法 + B 方法 + linear congruence 方法
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2021.38.38.png)
 
