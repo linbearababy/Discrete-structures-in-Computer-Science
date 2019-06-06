@@ -496,6 +496,7 @@ coungruence     n,m 互为质数有解，否则无解
 				
 (5) 加减 乘除 （乘法或者十进制换成其他进制 用短除法最简单）
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-06%2000.10.57.png)
 
 二进制
 
