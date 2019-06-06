@@ -498,19 +498,23 @@ coungruence     n,m 互为质数有解，否则无解
 
 二进制
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2020.43.26.png)
 
-
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2020.46.57.png)
 				
 			
 八进制
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2020.44.28.png)
 
-
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2020.47.24.png)
 
 
 十六进制
 
-		
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2020.45.09.png)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-05%2020.47.53.png)		
 			
 		
 	
