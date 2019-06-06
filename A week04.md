@@ -528,5 +528,86 @@ coungruence     n,m 互为质数有解，否则无解
 
 # summary： 
 
+大题：				
+Practice 卷子  （抄题 因为这次的大题类型不变，而且选择题也会很有用）
+> 二进制，八进制，十六进制，是进制的相互转换；以及他们的加减和相乘
+>证明是big-theata
+>用E和B方法找gcd
+>linear congruence 
+作业题（题型）
+
+选择： 
+概念：
+ 
+	（1）  big-oh: 
+                  ▪ Such that 𝑓 𝑛 ≤ 𝑐 ⋅ 𝑔(𝑛) for all 𝑛 ≥ 𝑛0	
+
+ 		Big-omega
+		     ▪ Such that 𝑓 𝑛 >= 𝑐 ⋅ 𝑔(𝑛) for all 𝑛 ≥ 𝑛0	
+
+		Big- theta 
+      		     ▪ 𝑓(𝑛) = Θ(𝑔(𝑛)) iff ▪ 𝑓(𝑛) = 𝑂(𝑔(𝑛)) and ▪ 𝑓(𝑛) = Ω(𝑔(𝑛))  n>= k , c1,c2
+
+
+(2) inverse & Congruence
+
+		#a*n = 1 ( mod m) 
+		 inverse  n,m 互为质数是inverse
+
+
+		# n*a = k(mod m) 
+		coungruence     n,m 互为质数有解，否则无解
+
+
+(3) 	mod （余数 c = a mod b 且 余数c 不能是负数） 
+	vs modula (mod m) ( a=b(mod m) a-b = k*m)	这两个不是一个概念
+
+另外： a = b (mod m ) ------- a -b = k*m (看有没有k存在） ----------- a mod m = b  mod m  看等号两边是否相等）
+
+		Eg: 
+		22 = 67 （mod 5) 
+		相当于 22 mod 5 = 67 mod 5
+
+(4) 判断二进制， 八进制， 十六进制
+
+	▪ The binary, or base 2, expansion, uses the digits 0 and 1 only. 
+
+	▪ The octal expansion (base 8) uses the digits {0,1,2,3,4,5,6,7}.
+
+	▪ The hexadecimal, or base 16, expansion uses {0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F} for digits.
+
+
+(5) 整除的概念： （ | ）	
+
+	▪ Definition: If a and b are integers with a ≠ 0, then a divides b if there exists an integer c such that b = ac.
+	▪  When a divides b we say that a is a factor of b, or a is a divisor of b and that b is a multiple of a.
+	▪  The notation a | b denotes that a divides b.
+ 					
+▪  If a | b, then b/a is an integer.
+ 			
+▪  If a does not divide b, we write a ∤ b.
+
+						 
+If a | b and a | c, then a | (b + c);
+ 						
+						 							
+If a | b, then a | (bc) for all integers c;
+ 						
+						 							
+If a | b and b | c, then a | c.
+If a not | b ,and a not | c, then a  not  | bc (false) 
+
+If a not | b, then gcd (a,b) =1. (false)				
+			
+		
+(6) 
+If 2^(n -1) is not prime then n is not prime (false) 				
+			
+		
+(7) 7^(10001) = 1 ( mod 11)		
+			
+	Note that 7^(10) ≡ 1 (𝑚𝑜𝑑 11)
+	▪𝑎^(𝑝−1) ≡1(𝑚𝑜𝑑𝑝)
+	▪𝑎^𝑝 ≡𝑎(𝑚𝑜𝑑𝑝)
 
 
