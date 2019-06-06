@@ -433,5 +433,87 @@ coungruence     n,m 互为质数有解，否则无解
 
 ▪ Algorithms for Integer Operations 
 				
+（1） binary 				
+▪ The binary, or base 2, expansion, uses the digits 0 and 1 only. 
 			
+▪ (1 0101 1111)2 =
+1∙28 + 0∙27 + 1∙26 + 0∙25 + 1∙24 + 1∙23 + 1∙22 + 1∙21 + 1∙20 =351. 
+				
+(2) octal			
+					
+▪ The octal expansion (base 8) uses the digits {0,1,2,3,4,5,6,7}.
+					
+▪ Exercise: What decimal number equals (7016)8? ▪ 7∙83 + 0∙82 + 1∙81 + 6∙80 = 3598 
+				
+(3) hexadecimal 			
+					
+▪ The hexadecimal, or base 16, expansion uses {0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F} for digits.
+					
+▪ (A)16 through (F)16 represent (10)10 through (15)10.
+▪ Exercise: What decimal number equals (2AE0B)16 ?
+					
+▪ 2∙164 + 10∙163 + 14∙162 + 0∙161 + 11∙160 =175627
+				
+			
+(4) convert
+		
+▪ Binary to octal: replace 3-bit blocks with octal digit
+ ▪ Example:
+					
+(11111010111100)2 
+
+ (011 111 010 111 100)2      
+  			
+( 3 7 2 7 4)8 	
+					
+▪ Octal to binary: replace octal digit with 3-bit binary equivalent		
+					
+▪ Example: 
+(37274)8
+			
+( 3 7 2 7 4)8 
+
+(011 111 010 111 100)2 
+				
+▪ Binary to hexidecimal: replace 4-bit blocks with hexidecimal digit
+
+▪ Example:
+
+(11111010111100)2 
+
+(0011 1110 1011 1100)2
+					
+( 3 E B C)16 
+					
+▪ Hexidecimal to binary: replace hexidecimal digit with 4-bit blocks with binary block
+					
+▪ Example:
+(3EBC)16 
+
+( 3 E B C )16
+					
+(0011 1110 1011 1100)2 
+				
+(5) 加减 乘除
+
+二进制
+
+
+
+				
+			
+八进制
+
+
+
+
+
+十六进制
+
+		
+			
+		
+	
+		
+
 
