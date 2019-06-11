@@ -68,7 +68,7 @@ We need to show that IH implies 2^(𝑘+1 )> (𝑘 + 1) 3 .
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7143.jpg)
 
-
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7144.jpg)
 （3） 				 							
 ▪  Problem: Show that you can make up any postage of 8 cents or higher using just 3-cent stamps and 5-cent stamps.
  						
