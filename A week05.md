@@ -64,6 +64,9 @@ We need to show that IH implies 2^(𝑘+1 )> (𝑘 + 1) 3 .
 				
 （2）证明求和式子 (改变项数个数的字母为研究对象）
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7140.jpg)
+
+
 
 （3） 				 							
 ▪  Problem: Show that you can make up any postage of 8 cents or higher using just 3-cent stamps and 5-cent stamps.
