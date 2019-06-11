@@ -66,6 +66,7 @@ We need to show that IH implies 2^(𝑘+1 )> (𝑘 + 1) 3 .
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7140.jpg)
 
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/IMG_7143.jpg)
 
 
 （3） 				 							
