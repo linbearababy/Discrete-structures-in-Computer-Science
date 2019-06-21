@@ -152,3 +152,4 @@ Proof is done by contradiction
 
 # summary
 		
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6b7.jpeg)
