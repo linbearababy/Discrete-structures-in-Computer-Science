@@ -148,3 +148,7 @@ Proof is done by contradiction
 9. P(r)                                       4, 6 & 8, modus ponens
 
 10.Contradiction		                     3 & 9		
+
+
+# summary
+		
