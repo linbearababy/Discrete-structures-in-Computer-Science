@@ -150,6 +150,115 @@ Proof is done by contradiction
 10.Contradiction		                     3 & 9		
 
 
+
+# week 06 
+
+# week 06   因为relation没讲完，所以重头在 前三个
+
+
+# counting1&2 ； probability 可以看做一类， 他们放在一起考
+# Mainly : 排列组合 (主要考做题）
+
+（1）一件事完成一共有几种方法：
+
+Product rule : 相乘 （每一种有多少种）
+
+Sum rule ： 相加 （一共有几种） 
+
+比如：从A -> B 可以做公交车和火车， 公交车可以有6种路线， 火车两种：
+总共有 ： 6*1 + 2*1
+
+%%作业（6.1）着重体会 6.1.32 
+6.2.4
+
+（2）
+
+有顺序的（permutation) :
+
+p(n ,r ) = n! / (n-r)!  （string / letter）
+
+无顺序的 (combination)： 
+
+c(n,r ) = p(n , r) / r! = n! / ( (n-r)! * r!)
+
+（n)
+    r
+题型： （一般来说考无顺序的比较多）
+
+有序：
+
+String/ 字母
+
+
+
+无顺序： 
+
+扑克牌： 
+
+
+%%作业6.3 & 6.4 
+6.5 是独立的一种题型
+
+
+
+
+
+7.1&7.2 &8.5 是概率
+
+
+
+		 	 	 		
+			
+				
+					
+						
+Then the total number of objects would be at most k. This is a contradiction, because there are at least k + 1 objects. 
+					
+(1)  red & blue :
+
+At least 3 balls 一样的颜色 (可能是红或者蓝）
+
+X = （k+1）奇数
+x/2 = 3 -----------》 x= 5
+
+(2) 至少3个是蓝色
+
+3 + 10 =13			
+			
+（2） pascal identity
+
+Pascal trangle
+
+每一行是  C（	n,k) 
+
+	
+		 	 	 		
+			
+				
+6.4.21	类型			
+						 										
+					 				
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+#  relations （自己是一类）
+
+%%作业 	9.1 & 9.3
+
+区分概念： 
+
+
+
 # summary
 		
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6b7.jpeg)
