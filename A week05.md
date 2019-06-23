@@ -153,3 +153,14 @@ Proof is done by contradiction
 # summary
 		
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6b7.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6b8.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6b9.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6ba.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bb.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bb.jpeg)
+
