@@ -162,5 +162,11 @@ Proof is done by contradiction
 
 ![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bb.jpeg)
 
-![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bb.jpeg)
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bc.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bd.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bc.jpeg)
+
+![](https://github.com/linbearababy/Discrete-structures-in-Computer-Science/blob/master/PICTURE/fullsizeoutput_6bf.jpeg)
 
